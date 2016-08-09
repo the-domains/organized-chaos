@@ -1,4 +1,3 @@
-layout_spectrum: 0.42950692819431424
 typography_spectrum: 0.21708772517740726
 color:
   brandStrength: 0.19302391330711544
@@ -11,4 +10,9 @@ color:
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
+layout_spectrum: 0.42950692819431424
+author:
+  name: John-Patrick Skaar
+  email: patrick@skaar.org
+  url: www.jpskaar.com
 name: orgAnized chAos
